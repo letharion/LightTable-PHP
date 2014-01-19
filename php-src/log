@@ -1,0 +1,18 @@
+Array
+(
+    [0] => /Users/claesgyllensvard/lighttable/LightTable/deploy/plugins/php/php-src/php-lt-client.php
+    [1] => 54805
+    [2] => null
+)
+Array
+(
+    [name] => php-client
+    [client-id] => null
+    [dir] => /Users/claesgyllensvard/lighttable/LightTable/deploy/plugins/php/php-src
+    [commands] => Array
+        (
+            [0] => editor.eval.php
+        )
+
+    [type] => php
+)

@@ -1,0 +1,2 @@
+{:+ {:app [(:lt.objs.plugins/load-js "php_compiled.js" true)]
+     :php.hello [:lt.plugins.php/on-close-destroy]}}

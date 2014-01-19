@@ -1,0 +1,10 @@
+{
+  "name": "PHP",
+  "author": "Letharion",
+  "version": "0.0.1",
+  "source": "https://github.com/letharion/LightTable-PHP",
+  "desc": "PHP language plugin for Light Table",
+  "dependencies": {
+  },
+  "behaviors": "php.behaviors"
+}
