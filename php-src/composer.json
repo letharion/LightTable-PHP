@@ -1,5 +1,9 @@
 {
     "require": {
-        "react/react": "0.3.*"
+        "react/react": "0.4.*",
+        "aura/cli": "1.1.*"
+    },
+    "require-dev": {
+        "monolog/monolog": "1.*"
     }
 }

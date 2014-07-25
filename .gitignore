@@ -1,2 +1,4 @@
 .nrepl-port
 target
+php-src/vendor
+.DS_Store
